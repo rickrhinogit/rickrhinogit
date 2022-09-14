@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rickrhinogit
 - 👀 I’m interested in weightlifting, programming, singing and games
-- 🌱 I’m currently learning Javascript frameworks (React), Android (React Native, Flutter, NativeScript)  and latest development languanges (Golang, Rust)
+- 🌱 I’m currently learning Javascript frameworks (React), Android (React Native), Enterprise Frameworks (Java Spring Boot), and latest development languanges (Golang, Rust)
 
 
 <!---
